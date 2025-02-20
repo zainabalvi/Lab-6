@@ -16,3 +16,4 @@ Console.WriteLine(item);
       }
    }
 }
+groceryList.Add("Sugar");
